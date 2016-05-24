@@ -1,0 +1,17 @@
+//
+//  TestFireBasePrefix.pch
+//  testfirebase
+//
+//  Created by Tri Vo on 5/24/16.
+//  Copyright © 2016 acumen. All rights reserved.
+//
+
+#ifndef TestFireBasePrefix_pch
+#define TestFireBasePrefix_pch
+
+#import CocoaLumberjack
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* TestFireBasePrefix_pch */

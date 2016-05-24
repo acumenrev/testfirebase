@@ -14,5 +14,7 @@ pod 'SwiftyJSON'
 pod 'ObjectMapper'
 pod 'AlamofireObjectMapper', '~> 3.0'
 pod 'CocoaLumberjack/Swift'
+pod 'JSONModel'
+pod 'FBSDKLoginKit', '~> 4.12'
 
 end
