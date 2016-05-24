@@ -1,0 +1,20 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+
+
+
+use_frameworks!
+
+target 'testfirebase' do
+
+pod 'Firebase'
+pod 'Alamofire', '~> 3.4'
+pod 'RealmSwift'
+pod 'SwiftyJSON'
+pod 'ObjectMapper'
+pod 'AlamofireObjectMapper', '~> 3.0'
+pod 'CocoaLumberjack/Swift'
+pod 'JSONModel'
+pod 'FBSDKLoginKit', '~> 4.12'
+
+end
